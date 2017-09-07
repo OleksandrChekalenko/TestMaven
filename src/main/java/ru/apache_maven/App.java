@@ -1,6 +1,5 @@
 package ru.apache_maven;
 
-import org.joda.time.LocalDate;
 import org.joda.time.LocalDateTime;
 
 /**
